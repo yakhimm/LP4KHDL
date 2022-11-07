@@ -14,5 +14,5 @@
 ### 2) Thông tin về dữ liệu:
 - Nguồn: Kaggle
 - Dữ liệu phải được cấu trúc hóa thành một bảng gồm ít nhất 5 thuộc tính (trường dữ liệu) và 1000 dòng (records)
-- Tên ngắn gọn cho dữ liệu đã lựa chọn:
-- Link dữ liệu: 
+- Tên ngắn gọn cho dữ liệu đã lựa chọn: College entrance exam scores in Viet Nam
+- Link dữ liệu: https://www.kaggle.com/datasets/jonnyjackk/college-entrance-exam-scores-in-vietnam-2019
