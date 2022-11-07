@@ -12,7 +12,7 @@
 - Numpy
 - Pandas
 ### 2) Thông tin về dữ liệu:
-- Nguồn: Kaggle
+- Nguồn: Kaggle, Github
 - Dữ liệu phải được cấu trúc hóa thành một bảng gồm ít nhất 5 thuộc tính (trường dữ liệu) và 1000 dòng (records)
 - Tên ngắn gọn cho dữ liệu đã lựa chọn: College entrance exam scores in Viet Nam
 - Link dữ liệu:
