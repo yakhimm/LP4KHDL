@@ -8,9 +8,8 @@
 |4|20120516|Nguyễn Đăng Khương|20120516@student.hcmus.edu.vn|
 ## II. THÔNG TIN VỀ DỮ LIỆU
 ### 1) Thư viện hỗ trợ:
-- Matplotlib
-- Numpy
-- Pandas
+- Pandas: https://pandas.pydata.org/docs/reference/
+- Matplotlib: https://matplotlib.org/stable/plot_types/index
 ### 2) Thông tin về dữ liệu:
 - Nguồn: Kaggle, Github
 - Dữ liệu phải được cấu trúc hóa thành một bảng gồm ít nhất 5 thuộc tính (trường dữ liệu) và 1000 dòng (records)
