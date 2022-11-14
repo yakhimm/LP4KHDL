@@ -6,7 +6,7 @@
 |2|20120210|Trần Thị Kim Tiến|20120210@student.hcmus.edu.vn|
 |3|20120273|Bùi Hồng Dương|20120273@student.hcmus.edu.vn|
 |4|20120516|Nguyễn Đăng Khương|20120516@student.hcmus.edu.vn|
-Link Google Meet: https://meet.google.com/sdp-aqpi-wsb
+- Link Google Meet: https://meet.google.com/sdp-aqpi-wsb
 ## II. THÔNG TIN VỀ DỮ LIỆU
 ### 1) Thư viện hỗ trợ:
 - Pandas: https://pandas.pydata.org/docs/reference/
