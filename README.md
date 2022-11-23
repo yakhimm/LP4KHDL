@@ -8,7 +8,7 @@
 |4|20120516|Nguyễn Đăng Khương|20120516@student.hcmus.edu.vn|
 - Link Google Meet: https://meet.google.com/sdp-aqpi-wsb
 - Link Trello: https://trello.com/b/yyo32Loq/nh%C3%B3m-05
-- Link Google Drive: https://drive.google.com/drive/u/0/folders/1-bpXI6qVus8JzuuqyHMIUth8dZkeYL8H
+- Link Google Drive: https://drive.google.com/drive/folders/1-bpXI6qVus8JzuuqyHMIUth8dZkeYL8H?usp=sharing
 ## II. THÔNG TIN VỀ PROJECT
 ### 1) Thư viện hỗ trợ:
 - Pandas: https://pandas.pydata.org/docs/reference/
