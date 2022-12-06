@@ -1,0 +1,63 @@
+Mã tỉnh: 01 - THÀNH PHỐ HÀ NỘI
+Mã tỉnh: 02 - THÀNH PHỐ HỒ CHÍ MINH
+Mã tỉnh: 03 - THÀNH PHỐ HẢI PHÒNG
+Mã tỉnh: 04 - THÀNH PHỐ ĐÀ NẴNG
+Mã tỉnh: 05 - TỈNH HÀ GIANG
+Mã tỉnh: 06 - TỈNH CAO BẰNG
+Mã tỉnh: 07 - TỈNH LAI CHÂU
+Mã tỉnh: 08 - TỈNH LÀO CAI
+Mã tỉnh: 09 - TỈNH TUYÊN QUANG
+Mã tỉnh: 10 - TỈNH LẠNG SƠN
+Mã tỉnh: 11 - TỈNH BẮC KẠN
+Mã tỉnh: 12 - TỈNH THÁI NGUYÊN
+Mã tỉnh: 13 - TỈNH YÊN BÁI
+Mã tỉnh: 14 - TỈNH SƠN LA
+Mã tỉnh: 15 - TỈNH PHÚ THỌ
+Mã tỉnh: 16 - TỈNH VĨNH PHÚC
+Mã tỉnh: 17 - TỈNH QUẢNG NINH
+Mã tỉnh: 18 - TỈNH BẮC GIANG
+Mã tỉnh: 19 - TỈNH BẮC NINH
+Mã tỉnh: 21 - TỈNH HẢI DƯƠNG
+Mã tỉnh: 22 - TỈNH HƯNG YÊN
+Mã tỉnh: 23 - TỈNH HÒA BÌNH
+Mã tỉnh: 24 - TỈNH HÀ NAM
+Mã tỉnh: 25 - TỈNH NAM ĐỊNH
+Mã tỉnh: 26 – TỈNH THÁI BÌNH
+Mã tỉnh: 27 – TỈNH NINH BÌNH
+Mã tỉnh: 28 – TỈNH THANH HÓA
+Mã tỉnh: 29 – TỈNH NGHỆ AN
+Mã tỉnh: 30 – TỈNH HÀ TĨNH
+Mã tỉnh: 31 – TỈNH QUẢNG BÌNH
+Mã tỉnh: 32 – TỈNH QUẢNG TRỊ
+Mã tỉnh: 33 – TỈNH THỪA THIÊN – HUẾ
+Mã tỉnh: 34 – TỈNH QUẢNG NAM
+Mã tỉnh: 35 – TỈNH QUẢNG NGÃI
+Mã tỉnh: 36 – TỈNH KON TUM
+Mã tỉnh: 37 – TỈNH BÌNH ĐỊNH
+Mã tỉnh: 38 – TỈNH GIA LAI
+Mã tỉnh: 39 – TỈNH PHÚ YÊN
+Mã tỉnh: 40 – TỈNH ĐẮK LẮK
+Mã tỉnh: 41 – TỈNH KHÁNH HÒA
+Mã tỉnh: 42 – TỈNH LÂM ĐỒNG
+Mã tỉnh: 43 – TỈNH BÌNH PHƯỚC
+Mã tỉnh: 44 – TỈNH BÌNH DƯƠNG
+Mã tỉnh: 45 – TỈNH NINH THUẬN
+Mã tỉnh: 46 – TỈNH TÂY NINH
+Mã tỉnh: 47 – TỈNH BÌNH THUẬN
+Mã tỉnh: 48 – TỈNH ĐỒNG NAI
+Mã tỉnh: 49 – TỈNH LONG AN
+Mã tỉnh: 50 – TỈNH ĐỒNG THÁP
+Mã tỉnh: 51 – TỈNH AN GIANG
+Mã tỉnh: 52 – TỈNH BÀ RỊA – VŨNG TÀU
+Mã tỉnh: 53 – TỈNH TIỀN GIANG
+Mã tỉnh: 54 – TỈNH KIÊN GIANG
+Mã tỉnh: 55 – THÀNH PHỐ CẦN THƠ
+Mã tỉnh: 56 – TỈNH BẾN TRE
+Mã tỉnh: 57 – TỈNH VĨNH LONG
+Mã tỉnh: 58 – TỈNH TRÀ VINH
+Mã tỉnh: 59 – TỈNH SÓC TRĂNG
+Mã tỉnh: 60 – TỈNH BẠC LIÊU
+Mã tỉnh: 61 – TỈNH CÀ MAU
+Mã tỉnh: 62 – TỈNH ĐIỆN BIÊN
+Mã tỉnh: 63 – TỈNH ĐĂK NÔNG
+Mã tỉnh: 64 – TỈNH HẬU GIANG
