@@ -23,4 +23,11 @@
   - https://github.com/beecost/bee-university
   - https://github.com/khoingo123/diem-thi-dai-hoc-2022/tree/main/data
 ### 3) Các câu hỏi đặt ra cho dữ liệu:
--
+- **Câu hỏi 1:** So sánh điểm các năm của môn tiêu biểu: Toán, Văn, Anh. Nhận xét sự phân hóa của đề?
+- **Câu hỏi 2:** Phân tich tỉ lệ đậu tốt nghiệp của các tỉnh trên cả nước (chỉ dựa trên điểm thi THPT)
+- **Câu hỏi 3:** Liệu học phi có ảnh hưởng quá nhiều đến điểm chuẩn?
+- **Câu hỏi 4:**
+  - Giữa ban tự nhiên và ban xã hội thì ban nao có nhiều thi sinh lựa chọn nhất?
+  - Có thể dự đoán khôi khi của các thi sinh hay không ?
+  - Có nên bỏ điểm ưu tiên khi thi xét điểm đại học hay không ?
+- **Câu hỏi 5:** Thông kê tìm điểm bất thường trong điểm thi.
